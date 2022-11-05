@@ -1,0 +1,6 @@
+# ignore obsidian
+.obsidian
+
+# ignore project file
+.vscode
+UIdemo.sln
